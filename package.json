@@ -1,0 +1,21 @@
+{
+  "name": "exercicio-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+    "start": "tsx src/app.ts",
+    "dev": "tsx --watch src/app.ts",
+    "build": "tsc"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
